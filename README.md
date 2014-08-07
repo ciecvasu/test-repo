@@ -1,4 +1,4 @@
 test-repo
 =========
 
-Testing Connection
+Testing Connection from local to remote.
